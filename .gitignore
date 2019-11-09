@@ -1,0 +1,9 @@
+# compiler
+/bin
+/obj
+
+/wwwroot
+package-lock.json
+*csproj.user
+.vs/
+node_modules/
